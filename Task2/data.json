@@ -1,0 +1,22 @@
+{
+    "object1": {
+        "subobject1": 1,
+        "subobject2": "two",
+        "subobject3": true
+    },
+    "object2": {
+        "subobject1": 1.5,
+        "subobject2": "two",
+        "subobject3": false
+    },
+    "object3": {
+        "subobject1": 3,
+        "subobject2": "three",
+        "subobject3": null
+    },
+    "object4": {
+        "subobject1": 4,
+        "subobject2": "four",
+        "subobject3": [1, 2, 3]
+    }
+}
